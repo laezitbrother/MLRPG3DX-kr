@@ -138,7 +138,7 @@ Messages:
     Attribute: 00000000
     StyleID: 13
   Ns_Accessory05:
-    Contents: <Tag_0>オススメワッペン
+    Contents: <Tag_0>추천패치
     Tags:
       Tag_0:
         Group: 9
@@ -212,7 +212,7 @@ Messages:
     Attribute: 00000000
     StyleID: 3
   Ns_Accessory06:
-    Contents: <Tag_0>ゼイタクワッペン
+    Contents: <Tag_0>사치패치
     Tags:
       Tag_0:
         Group: 9
@@ -221,7 +221,7 @@ Messages:
     Attribute: 00000000
     StyleID: 13
   Ns_Socks22:
-    Contents: <Tag_0>バッジソックス
+    Contents: <Tag_0>배지양말
     Tags:
       Tag_0:
         Group: 9
@@ -230,7 +230,7 @@ Messages:
     Attribute: 00000000
     StyleID: 13
   E_Shell00:
-    Contents: <Tag_0>クッパ<Tag_1>専用のトゲつきコウラ。
+    Contents: <Tag_0>쿠파 전용의 가시 등껍질.
     Tags:
       Tag_0:
         Group: 9
@@ -252,7 +252,7 @@ Messages:
     Attribute: 00000000
     StyleID: 3
   E_Wear12:
-    Contents: "<Tag_0>キングの<Tag_1>風格ただようウェア。\n<Tag_2>敵を<Tag_3>倒すとPOWがアップ！"
+    Contents: "<Tag_0>킹의 풍격 있는 웨어.\n적을 쓰러뜨리면 POW 업！"
     Tags:
       Tag_0:
         Group: 9
@@ -299,7 +299,7 @@ Messages:
     Attribute: 00000000
     StyleID: 13
   Ns_Accessory07:
-    Contents: <Tag_0>ゴーカイワッペン
+    Contents: <Tag_0>호탕패치
     Tags:
       Tag_0:
         Group: 9
@@ -308,7 +308,7 @@ Messages:
     Attribute: 00000000
     StyleID: 13
   EFF_Badge_02_06:
-    Contents: <Tag_0>バトル<Tag_1>終了時に獲得コインが <Tag_2>２<Tag_3><Tag_4>倍。
+    Contents: <Tag_0>배틀 종료시 획득 코인이 <Tag_2>2<Tag_3>배.
     Tags:
       Tag_0:
         Group: 9
@@ -333,7 +333,7 @@ Messages:
     Attribute: 00000000
     StyleID: 13
   E_AItm20:
-    Contents: "<Tag_0><Tag_1>カメックの<Tag_2>杖の<Tag_3>光を<Tag_4>素早く なぞって\nクッパのファイアで <Tag_5>魔法がパワーアップ！\nターゲット：<Tag_6>ランダム<Tag_7>　<Tag_8>効果：<Tag_9>やけど<Tag_10>"
+    Contents: "<Tag_0><Tag_1>지팡이의 빛을 빠르게 슬라이드!\n쿠파의 파이어로 마법이 강력해진다！\n공격 대상:<Tag_6>랜덤<Tag_7>　효과：<Tag_9>화상<Tag_10>"
     Tags:
       Tag_0:
         Group: 9
@@ -382,7 +382,7 @@ Messages:
     Attribute: 00000000
     StyleID: 5
   E_Shell01:
-    Contents: "<Tag_0>オーダーメイドで<Tag_1>発注した コウラ。\nめまわしを<Tag_2>完全ガードする<Tag_3>効果。"
+    Contents: "<Tag_0>주문 제작으로 주문한 등껍질.\n눈꺼풀을 완벽하게 보호하는 효과."
     Tags:
       Tag_0:
         Group: 9
@@ -403,7 +403,7 @@ Messages:
     Attribute: 00000000
     StyleID: 3
   E_Socks04:
-    Contents: "<Tag_0>チョコマカ<Tag_1>動ける<Tag_2>不思議なソックス。\nバトルで<Tag_3>誰よりも<Tag_4>早い<Tag_5>最初の攻撃を強化！"
+    Contents: "<Tag_0>후다닥 움직일 수 있는 신기한 양말.\n배틀에서 누구보다도 빠르게 선제공격을 강화!"
     Tags:
       Tag_0:
         Group: 9
@@ -432,7 +432,7 @@ Messages:
     Attribute: 00000000
     StyleID: 3
   E_Wear13:
-    Contents: "<Tag_0><Tag_1>真のスターのためのウェア。\nおそいモンスターの<Tag_2>攻撃につよくなる<Tag_3>効果。"
+    Contents: "<Tag_0>진정한 스타를 위한 웨어.\n느린 적의 공격에 강해지는 효과."
     Tags:
       Tag_0:
         Group: 9
@@ -462,7 +462,7 @@ Messages:
     Attribute: 00000000
     StyleID: 13
   Ns_Accessory08:
-    Contents: <Tag_0>スモールシェル
+    Contents: <Tag_0>작은방패
     Tags:
       Tag_0:
         Group: 9
@@ -471,7 +471,7 @@ Messages:
     Attribute: 00000000
     StyleID: 13
   EFF_Badge_02_07:
-    Contents: "<Tag_0><Tag_1>３<Tag_2>ターンの<Tag_3>間 モンスターを<Tag_4>倒すと\nアイテムを かならず<Tag_5>落とす。"
+    Contents: "<Tag_0><Tag_1>３<Tag_2>턴 안에 적을 쓰러뜨리면\n아이템을 꽤 많이 떨어뜨린다."
     Tags:
       Tag_0:
         Group: 9
@@ -500,7 +500,7 @@ Messages:
     Attribute: 00000000
     StyleID: 13
   E_AItm21:
-    Contents: "<Tag_0><Tag_1><Tag_2><Tag_3>左右<Tag_4>でルイージを<Tag_5>動かし スイーツゲット！\n<Tag_6>太ったルイージを<Tag_7><Tag_8><Tag_9>連打で<Tag_10>投げ<Tag_11>飛ばし <Tag_12><Tag_13>でプレス！\nターゲット：<Tag_14><Tag_15>全体 （<Tag_16>空中の<Tag_17>敵は<Tag_18>無効）<Tag_19>　<Tag_20>効果：<Tag_21>なし<Tag_22>"
+    Contents: "<Tag_0><Tag_1><Tag_2>좌우<Tag_4>でルイージを動かし スイーツゲット！\n太ったルイージを<Tag_8>連打で投げ飛ばし <Tag_12><Tag_13>でプレス！\nターゲット：<Tag_14><Tag_15>全体 （<Tag_16>空中の<Tag_17>敵は<Tag_18>無効）<Tag_19>　<Tag_20>効果：<Tag_21>なし<Tag_22>"
     Tags:
       Tag_0:
         Group: 9
